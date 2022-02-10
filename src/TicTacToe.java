@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiDimArr {
+public class TicTacToe {
 
 
     public static void main(String[] args) {
